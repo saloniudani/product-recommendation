@@ -36,3 +36,5 @@ http://localhost:8080/core-app-api/recommendation/product/id_261
 ```
 #app.mock.data.path=classpath*:staged-data/*.json;
 ```
+
+### Note
