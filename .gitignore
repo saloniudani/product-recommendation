@@ -1,0 +1,17 @@
+*.ipr
+*.iws
+*.idea
+*.iml
+.classpath
+.project
+.springBeans
+.settings/
+.sts4-cache
+target/
+generated
+dependency-reduced-pom.xml
+.factorypath
+.mvn
+launch.json
+.vscode
+/solr/embedded/*/data/
