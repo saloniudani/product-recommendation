@@ -37,7 +37,7 @@ http://localhost:8080/core-app-api/recommendation/product/id_261
 #app.mock.data.path=classpath*:staged-data/*.json;
 ```
 
-### Note
+### Notes about embedded Solr setup
 For Embedded Solr server, following config files are mandatory . Download actual Apache Solr artifact and use config files from it. Note that Aache Solr version should be same as that used by spring-data-solr.
 For this app Solr version is 8.5.2 and SOLR_HOME is solr/embedded.
 
